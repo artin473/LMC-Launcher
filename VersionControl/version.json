@@ -1,0 +1,28 @@
+[
+  {
+    "version": "MCPE: V0.1 Alpha",
+    "type": "Alpha",
+    "package": "",
+    "key": "",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "فارسی"
+  },
+{
+    "version": "MCPE: V0.13.2 PE",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.colme",
+    "key": "test",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.13.2",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "true",
+    "description": "فارسی پشتیبانی میکند"
+  }
+]
