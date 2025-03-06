@@ -1,2 +1,2 @@
-*LMC-Launcher V1.0*
+**LMC-Launcher V1.0**
 1-Release
