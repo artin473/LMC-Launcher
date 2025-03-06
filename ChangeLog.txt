@@ -1,3 +1,3 @@
 **LMC-Launcher V1.0**
 1-Release
-Hello, §aWorld§r! This is **bold**, *italic*, 'italic', _underlined_, and -strikethrough- text.
+
