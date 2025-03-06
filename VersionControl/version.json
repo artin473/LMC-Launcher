@@ -12,18 +12,5 @@
     "supportbot": "false",
     "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11",
     "logo": ""
-  },
-  {
-    "version": "MCPE: V0.13.2 PE",
-    "type": "Alpha",
-    "package": "com.mojang.minecraftpe.colme",
-    "key": "test",
-    "hide": "true",
-    "icon": "",
-    "vcode": "0.13.2",
-    "action": "Activity",
-    "game": "minecraft",
-    "supportbot": "true",
-    "description": "فارسی پشتیبانی میکند"
   }
 ]
