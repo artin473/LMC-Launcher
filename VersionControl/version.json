@@ -11,5 +11,18 @@
     "game": "minecraft",
     "supportbot": "false",
     "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
-     }
+  },
+  {
+    "version": "MCPE: V1.2 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev1_2alpha",
+    "key": "MCPE:V1.2Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  }
 ]
