@@ -167,5 +167,96 @@
     "game": "minecraft",
     "supportbot": "false",
     "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.0 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_0Alpha",
+    "key": "MCPE:V7.0Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.1 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_1Alpha",
+    "key": "MCPE:V7.1Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.2 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_2Alpha",
+    "key": "MCPE:V7.2Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.3 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_3Alpha",
+    "key": "MCPE:V7.3Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 3.x<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.4 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_4Alpha",
+    "key": "MCPE:V7.4Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 3.x<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.5 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_5Alpha",
+    "key": "MCPE:V7.5Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 3.x<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V7.6 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev7_6Alpha",
+    "key": "MCPE:V7.6Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 3.x<=11\nTested Android 11"
   }
-]
+] 
