@@ -50,5 +50,44 @@
     "game": "minecraft",
     "supportbot": "false",
     "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V2.1 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev2_1Alpha",
+    "key": "MCPE:V2.1Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V2.2 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev2_2Alpha",
+    "key": "MCPE:V2.2Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
+  },
+  {
+    "version": "MCPE: V3.0 Alpha",
+    "type": "Alpha",
+    "package": "com.mojang.minecraftpe.mcpev3_0Alpha",
+    "key": "MCPE:V3.0Alpha-LMC",
+    "hide": "false",
+    "icon": "",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Support Language Persian\nSupport Android 2.2<=11\nTested Android 11"
   }
 ]
