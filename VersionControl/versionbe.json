@@ -3,11 +3,11 @@
     "version": "LastedVersion",
     "type": "Bedrock",
     "package": "com.mojang.minecraftpe",
-    "key": "",
+    "key": "s",
     "hide": "false",
     "icon": "0",
     "vcode": "0.1",
-    "action": "activity",
+    "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
     "description": "Minecraft Bedrock Edition"
