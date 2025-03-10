@@ -16,7 +16,7 @@
     "type": "Bedrock",
     "package": "com.mojang.minecraftpe",
     "key": "s",
-    "hide": "true",
+    "hide": "false",
     "icon": "0",
     "vcode": "0.1",
     "action": "Activity",
