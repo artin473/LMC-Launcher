@@ -11,17 +11,5 @@
     "game": "minecraft",
     "supportbot": "false",
     "description": "Minecraft Bedrock Edition"
-  },  {
-    "version": "LastedVersion",
-    "type": "Bedrock",
-    "package": "com.mojang.minecraftpe",
-    "key": "",
-    "hide": "false",
-    "icon": "0",
-    "vcode": "0.1",
-    "action": "Activity",
-    "game": "minecraft",
-    "supportbot": "false",
-    "description": "Minecraft Bedrock Edition"
-  } 
+  }
 ] 
