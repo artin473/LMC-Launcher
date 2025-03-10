@@ -5,7 +5,7 @@
     "package": "com.mojang.minecraftpe",
     "key": "",
     "hide": "false",
-    "icon": "",
+    "icon": "0",
     "vcode": "0.1",
     "action": "Activity",
     "game": "minecraft",
