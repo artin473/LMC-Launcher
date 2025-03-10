@@ -7,7 +7,7 @@
     "hide": "false",
     "icon": "0",
     "vcode": "0.1",
-    "action": "Activity",
+    "action": "activity",
     "game": "minecraft",
     "supportbot": "false",
     "description": "Minecraft Bedrock Edition"
