@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
   "lock": "false",
-  "link": "https://github.com/artin473/LMC-Launcher",
+  "link": "https://t.me/LMCLauncher",
 "txt":"New Version"
 } 
