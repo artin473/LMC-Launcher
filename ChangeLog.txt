@@ -7,3 +7,21 @@ This launcher is an unofficial application for Minecraft. This application is no
 **LMC-Launcher V1.0**
 1-Release
 
+**LMC-Launcher V1.0.1**
+1-added and Support More Game
+2-added More Tools
+3-New GUI
+4-Added wallpaper 
+5-Added Music
+6-Added Bootloader 
+7-Added UserManager
+8-Added Cleaner 
+9-Added News
+10-New DebugActivity
+11-Move help mcpe bot to setting
+12-New Icon 
+13-New TitleApp
+14-fix Bug Install Checker
+15-Fix More Bug
+16-And More...
+
