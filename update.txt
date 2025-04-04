@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "lock": "false",
   "link": "https://t.me/LMCLauncher",
 "txt":"New Version"
