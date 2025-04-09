@@ -10,7 +10,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.1.2 Alpha",
@@ -23,7 +25,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.1.3 Alpha",
@@ -36,7 +40,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.2.0 Alpha",
@@ -49,7 +55,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.2.1 Alpha",
@@ -62,7 +70,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.2.2 Alpha",
@@ -75,7 +85,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.3.0 Alpha",
@@ -88,7 +100,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.3.2 Alpha",
@@ -101,7 +115,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.3.3 Alpha",
@@ -114,7 +130,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.4.0 Alpha",
@@ -127,7 +145,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.5.0 Alpha",
@@ -140,7 +160,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.6.0 Alpha",
@@ -153,7 +175,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.6.1 Alpha",
@@ -166,7 +190,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11"
+    "description": "Support Language Persian\nSupport Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.0 Alpha",
@@ -179,7 +205,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 2.2<=11^\nTested Android 11"
+    "description": "Support Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.1 Alpha",
@@ -192,7 +220,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 2.2<=11^\nTested Android 11"
+    "description": "Support Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.2 Alpha",
@@ -205,7 +235,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 2.2<=11^\nTested Android 11"
+    "description": "Support Android 2.2<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.3 Alpha",
@@ -218,7 +250,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.4 Alpha",
@@ -231,7 +265,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.5 Alpha",
@@ -244,7 +280,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.7.6 Alpha",
@@ -257,7 +295,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.8.0 Alpha",
@@ -270,7 +310,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.8.1 Alpha",
@@ -283,7 +325,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.0 Alpha",
@@ -296,7 +340,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.1 Alpha",
@@ -309,7 +355,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.2 Alpha",
@@ -322,7 +370,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.3 Alpha",
@@ -335,7 +385,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.4 Alpha",
@@ -348,7 +400,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.5-1 Alpha",
@@ -361,7 +415,9 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   },
   {
     "version": "MCPE: V0.9.5-2 Alpha",
@@ -374,6 +430,8 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Support Android 3.x<=11^\nTested Android 11"
+    "description": "Support Android 3.x<=11^\nTested Android 11",
+    "musicpack": "true",
+    "bootloader": "true"
   }
-    ]
+]
