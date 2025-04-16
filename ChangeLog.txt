@@ -4,6 +4,20 @@ The first unofficial Minecraft PE launcher
 DISCLAIMER: 
 This launcher is an unofficial application for Minecraft. This application is not affiliated in any way with Mojang AB. The Minecraft Name, Brand and Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines
 
+**LMC-Launcher V1.0.2**
+1-Added and Support More Game 
+2-New Title Mojang 
+3-New GUI Switch 
+4-§e Added Dynamic Profile §r
+5-Added New Sound
+6-Fixed bug for some games not running 
+7-Fixed a bug that would turn the buttons under the mobile phone black when the version Manager and User Manager were opened
+8-Fix More Bug
+9-The user manager is finally complete and now it matches the name setting in the launcher, in the game as well
+10-The launcher may not be stable in Xiaomi phones
+11-Some app libraries updated
+12-Now the icons of the different versions of the game are set
+13-Added a visual selection to the list of games to specify which games have been selected
 
 **LMC-Launcher V1.0.1**
 1-added and Support More Game
@@ -25,6 +39,3 @@ This launcher is an unofficial application for Minecraft. This application is no
 
 **LMC-Launcher V1.0**
 1-Release
-
-
-
