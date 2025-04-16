@@ -8,7 +8,7 @@ This launcher is an unofficial application for Minecraft. This application is no
 1-Added and Support More Game 
 2-New Title Mojang 
 3-New GUI Switch 
-4-§e Added Dynamic Profile §r
+4-§eAdded Dynamic Profile §r
 5-Added New Sound
 6-Fixed bug for some games not running 
 7-Fixed a bug that would turn the buttons under the mobile phone black when the version Manager and User Manager were opened
