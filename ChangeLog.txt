@@ -14,7 +14,7 @@ This launcher is an unofficial application for Minecraft. This application is no
 7-Fixed a bug that would turn the buttons under the mobile phone black when the version Manager and User Manager were opened
 8-Fix More Bug
 9-The user manager is finally complete and now it matches the name setting in the launcher, in the game as well
-10-The launcher may not be stable in Xiaomi phones
+10-The launcher may not be stable in Samsung phones
 11-Some app libraries updated
 12-Now the icons of the different versions of the game are set
 13-Added a visual selection to the list of games to specify which games have been selected
