@@ -1,6 +1,8 @@
 {
   "version": "1.0.0",
+  "lock2": "false",
   "lock": "false",
   "link": "https://t.me/LMCLauncher",
-"txt":"New Version"
+"txt":"This version is outdated, please update",
+"txt2":"New Version"
 } 
