@@ -1,8 +1,17 @@
 **Dsecption**
 The first unofficial Minecraft PE launcher
 
+
 DISCLAIMER: 
 This launcher is an unofficial application for Minecraft. This application is not affiliated in any way with Mojang AB. The Minecraft Name, Brand and Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines
+
+**LMC-Launcher V1.0.3**
+1-Added a controller spinner that solves a number of problems
+2-Possible fixes an issue that caused the app to reopen after closing
+3-Possible fixing the problem of scrolling and selecting an item on some phones, if it does not work, click on the version icon or user profile
+4-Now the Splash Launcher page has been fixed because it was not supported on some phones
+5-Fixing some bugs
+
 
 **LMC-Launcher V1.0.2**
 1-Added and Support More Game 
