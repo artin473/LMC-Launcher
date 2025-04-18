@@ -10,6 +10,8 @@
     "action": "Activity",
     "game": "minecraft",
     "supportbot": "false",
-    "description": "Minecraft Bedrock Edition"
+    "description": "Minecraft Bedrock Edition",
+    "musicpack": "false",
+    "bootloader": "false"
   }
 ] 
