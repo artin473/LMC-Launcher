@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "version": "MCPE:V0.8.3 SkinOnline",
+    "type": "PE",
+    "package": "net.skidcode.gh.minecraftpe081",
+    "key": "MCPE:V0.8.3-SkinOnline-LMC",
+    "hide": "false",
+    "icon": "file:///android_asset/icon/Alpha2.png",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Minecraft Pocket Edition\nGetting Skin Its Online With Your Name",
+    "musicpack": "true",
+    "bootloader": "true"
+  },
+  {
+    "version": "PixelCraft:1.0 Beta",
+    "type": "PXCraft",
+    "package": "com.RazelPE",
+    "key": "PXCraft:1.0Beta-LMC",
+    "hide": "false",
+    "icon": "https://raw.githubusercontent.com/artin473/LMC-Launcher/refs/heads/main/icon/PXCraft.png",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "PixelCraft",
+    "supportbot": "false",
+    "description": "Minecraft 2D",
+    "musicpack": "false",
+    "bootloader": "true"
+  },
+  {
+    "version": "MC2D:10.00.27",
+    "type": "MC2D",
+    "package": "com.methodmobilestudios.Minecraft_Simulator_Free",
+    "key": "MC2D:10.00.27-LMC",
+    "hide": "false",
+    "icon": "https://raw.githubusercontent.com/artin473/LMC-Launcher/refs/heads/main/icon/MC2D.png",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "Minecraft 2D",
+    "supportbot": "false",
+    "description": "Minecraft 2D",
+    "musicpack": "true",
+    "bootloader": "true"
+  },
+  {
+    "version": "MCNPE:0.15.10-1.21",
+    "type": "MCNPE",
+    "package": "com.minewpe.sts",
+    "key": "MCNPE:0.15.10-LMC",
+    "hide": "false",
+    "icon": "https://raw.githubusercontent.com/artin473/LMC-Launcher/refs/heads/main/icon/MCNPE.png",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Minecraft PE 0.15.10 Converted To Minecraft BE 1.21",
+    "musicpack": "true",
+    "bootloader": "true"
+  }
+] 
