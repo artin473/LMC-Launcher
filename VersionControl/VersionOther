@@ -15,6 +15,21 @@
     "bootloader": "true"
   },
   {
+    "version": "MCNPE:0.15.10-1.21",
+    "type": "MCNPE",
+    "package": "com.minewpe.sts",
+    "key": "MCNPE:0.15.10-LMC",
+    "hide": "false",
+    "icon": "https://raw.githubusercontent.com/artin473/LMC-Launcher/refs/heads/main/icon/MCNPE.png",
+    "vcode": "0.1",
+    "action": "Activity",
+    "game": "minecraft",
+    "supportbot": "false",
+    "description": "Minecraft PE 0.15.10 Converted To Minecraft BE 1.21",
+    "musicpack": "true",
+    "bootloader": "true"
+  },
+  {
     "version": "PixelCraft:1.0 Beta",
     "type": "PXCraft",
     "package": "com.RazelPE",
@@ -41,21 +56,6 @@
     "game": "Minecraft 2D",
     "supportbot": "false",
     "description": "Minecraft 2D",
-    "musicpack": "true",
-    "bootloader": "true"
-  },
-  {
-    "version": "MCNPE:0.15.10-1.21",
-    "type": "MCNPE",
-    "package": "com.minewpe.sts",
-    "key": "MCNPE:0.15.10-LMC",
-    "hide": "false",
-    "icon": "https://raw.githubusercontent.com/artin473/LMC-Launcher/refs/heads/main/icon/MCNPE.png",
-    "vcode": "0.1",
-    "action": "Activity",
-    "game": "minecraft",
-    "supportbot": "false",
-    "description": "Minecraft PE 0.15.10 Converted To Minecraft BE 1.21",
     "musicpack": "true",
     "bootloader": "true"
   }
