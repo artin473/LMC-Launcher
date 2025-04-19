@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.4",
   "lock2": "false",
   "lock": "true",
   "link": "https://t.me/LMCLauncher",
